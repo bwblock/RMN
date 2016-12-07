@@ -326,6 +326,10 @@ def gdisconnect():
     	response.headers['Content-Type'] = 'application/json'
     	return response
 
+#  --------------------------------------------------------------------------#
+#  --------------------  User Login via FB OAuth ------------------------#
+#  --------------------------------------------------------------------------#
+
 # --------------------------   User Helper Functions ------------------------------------#
 
 def createUser(login_session):
