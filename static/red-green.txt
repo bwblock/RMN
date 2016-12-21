@@ -1,0 +1,5 @@
+#b22524  red
+#650B0A  red
+#FE4E4D  pink
+#00651E  green
+#24B24E  green

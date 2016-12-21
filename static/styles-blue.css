@@ -6,20 +6,20 @@
 h1 {
 	font-family: "Helvetica Neue Light", Roboto, Helvetica, Arial, sans-serif;
 	font-size: 50px;
-	color: #070901;
+	color: #51453B;
 	line-height: 60px;
-	font-weight: 320;
+	font-weight: 300;
 }
 
 h2 {
 	font-size: 24px;
-	color: #2761BF;
+	color: #0033A5;
 	line-height: 29px;
 }
 
 h3 {
 	font-size: 18px;
-	color: #2761BF;
+	color: #0033A5;
 	line-height: 23px;
 }
  p {
@@ -56,12 +56,12 @@ h3 {
 .btn {
 	padding: 20px;
 	margin: 0;
-	border-color: #2761BF;
+	border-color: #0033A5;
 	border-width: 2px;
-	color: #2761BF;;
+	color: #0033A5;;
 }
 .btn:hover {
-	border-color: #2761BF;
+	border-color: #1C5EF2;
 }
 .btn.delete {
 	border-color: #aaaaaa;
@@ -93,10 +93,10 @@ h3 {
 	height: 15px;
 }
 .divider.blue {
-	background-color: #89B212;
+	background-color: #0033A5;
 }
 .divider.green {
-	background-color: #89B212;
+	background-color: #0033A5;
 }
 .banner.main {
 	height: 150px;
@@ -150,7 +150,7 @@ u }
 	margin-top: -20px;
 }
 .flash {
-	background-color: #FE2C0D;
+	background-color: #1C5EF2;
 	width:100%;
 	text-decoration: none;
 
