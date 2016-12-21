@@ -13,13 +13,13 @@ h1 {
 
 h2 {
 	font-size: 24px;
-	color: #2761BF;
+	color: #4C6500;
 	line-height: 29px;
 }
 
 h3 {
 	font-size: 18px;
-	color: #2761BF;
+	color: #4C6500;
 	line-height: 23px;
 }
  p {
@@ -56,12 +56,12 @@ h3 {
 .btn {
 	padding: 20px;
 	margin: 0;
-	border-color: #2761BF;
+	border-color: #FE2C0D;
 	border-width: 2px;
-	color: #2761BF;;
+	color: #FE2C0D;;
 }
 .btn:hover {
-	border-color: #2761BF;
+	border-color: #FE2C0D;
 }
 .btn.delete {
 	border-color: #aaaaaa;
